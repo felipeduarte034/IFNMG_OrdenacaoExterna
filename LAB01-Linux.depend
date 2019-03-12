@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1552409715 source:/home/felipe/Documents/LAB01-Linux/main.cpp
+	"util.h"
+	<iostream>
+
+1552404558 /home/felipe/Documents/LAB01-Linux/util.h
+	<vector>
+	<string>
+
+1552404558 source:/home/felipe/Documents/LAB01-Linux/CreateTestFile.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+
+1552404710 source:/home/felipe/Documents/LAB01-Linux/StringHeapSort.cpp
+	"util.h"
+	<iostream>
+	<vector>
+	<cstring>
+
+1552408011 source:/home/felipe/Documents/LAB01-Linux/ExternalOrder.cpp
+	"util.h"
+	<iostream>
+	<fstream>
+	<cmath>
+	<vector>
+	<string>
+
+1552408563 source:/home/felipe/Documents/LAB01-Linux/Intercalar.cpp
+	"util.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<vector>
+	<string>
+	<cstdio>
+
